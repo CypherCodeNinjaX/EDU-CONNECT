@@ -1,0 +1,8 @@
+
+{
+  "name": "Edu-Connect",
+  "description": "A next-generation educational app designed to transform how students learn, earn, and gain recognition. It connects learners with teachers and mentors, offers a digital library, a skill-swap marketplace, and a student recognition hub.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
